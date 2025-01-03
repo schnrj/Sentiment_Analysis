@@ -26,13 +26,14 @@ Sentiment Analysis is a powerful application of Natural Language Processing, all
 ## Video Demonstration
 
 **Application 1 - User Input**  
-[![Application 1](https://user-images.githubusercontent.com/54144759/173093720-5b753229-3ea8-428d-a4cb-1384c738382e.mp4)](https://user-images.githubusercontent.com/54144759/173093720-5b753229-3ea8-428d-a4cb-1384c738382e.mp4)
+[![Application 1](https://github.com/schnrj/Sentiment_Analysis/blob/main/User_Input.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/User_Input.mp4)
 
 **Application 2 - IMDb reviews**  
-[![Application 2](https://user-images.githubusercontent.com/54144759/173201517-909e9bc8-19cc-4667-8a8f-bd19fba75a0d.mp4)](https://user-images.githubusercontent.com/54144759/173201517-909e9bc8-19cc-4667-8a8f-bd19fba75a0d.mp4)
+[![Application 2](https://github.com/schnrj/Sentiment_Analysis/blob/main/IMDB_Review.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/IMDB_Review.mp4)
 
 **Application 3 - Image analysis**  
-[![Application 3](https://user-images.githubusercontent.com/54144759/173202138-a7b0648a-ba13-471d-88d2-c91432958aab.mp4)](https://user-images.githubusercontent.com/54144759/173202138-a7b0648a-ba13-471d-88d2-c91432958aab.mp4)
+[![Application 3](https://github.com/schnrj/Sentiment_Analysis/blob/main/Image_Analysis.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/Image_Analysis.mp4)
+
 
 ## Important Information
 
