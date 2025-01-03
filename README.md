@@ -26,13 +26,13 @@ Sentiment Analysis is a powerful application of Natural Language Processing, all
 ## Video Demonstration
 
 **Application 1 - User Input**  
-[![Application 1](https://github.com/schnrj/Sentiment_Analysis/blob/main/User_Input.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/User_Input.mp4)
+[![Application 1](https://img.youtube.com/vi/mXr1eVvgmYo/0.jpg)](https://youtu.be/mXr1eVvgmYo)
 
 **Application 2 - IMDb reviews**  
-[![Application 2](https://github.com/schnrj/Sentiment_Analysis/blob/main/IMDB_Review.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/IMDB_Review.mp4)
+[![Application 2](https://img.youtube.com/vi/a92n8eyvnbE/0.jpg)](https://youtu.be/a92n8eyvnbE)
 
 **Application 3 - Image analysis**  
-[![Application 3](https://github.com/schnrj/Sentiment_Analysis/blob/main/Image_Analysis.mp4)](https://github.com/schnrj/Sentiment_Analysis/blob/main/Image_Analysis.mp4)
+[![Application 3](https://img.youtube.com/vi/gyQ_zaJl9wU/0.jpg)](https://youtu.be/gyQ_zaJl9wU)
 
 
 ## Important Information
