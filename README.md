@@ -6,7 +6,7 @@ Sentiment Analysis is a powerful application of Natural Language Processing, all
 
 ## Live Link  
 **Hosted on Streamlit**  
-🔗 [https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py](https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py)
+🔗 [https://share.streamlit.io/schnrj/sentimentanalysis-streamlit/main/app.py](https://share.streamlit.io/schnrj/sentimentanalysis-streamlit/main/app.py)
 
 ## Project Specifications
 
